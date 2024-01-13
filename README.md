@@ -1,10 +1,4 @@
-# 基于SSM的医院挂号管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ： **医院2**，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 基于SSM的医院挂号管理系统2
 
 ## 1、项目介绍
 
@@ -36,45 +30,42 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131951370.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208131951370.jpg)
 
 ### 4.2 患者模块
 
-![患者-挂号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131951177.jpg)
+![患者-挂号](https://www.codeshop.fun/Typora-Images/202208131951177.jpg)
 
-![患者-查看挂号记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131951609.jpg)
+![患者-查看挂号记录](https://www.codeshop.fun/Typora-Images/202208131951609.jpg)
 
 ### 4.3 科室模块
 
-![科室-内科检查结果登记](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131951587.jpg)
+![科室-内科检查结果登记](https://www.codeshop.fun/Typora-Images/202208131951587.jpg)
 
 ### 4.4医生模块
 
-![医生-查看检查单记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131951766.jpg)
+![医生-查看检查单记录](https://www.codeshop.fun/Typora-Images/202208131951766.jpg)
 
-![医生-查看挂号记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131952103.jpg)
+![医生-查看挂号记录](https://www.codeshop.fun/Typora-Images/202208131952103.jpg)
 
 ### 4.5 管理员模块
 
-![管理员-科室管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131952641.jpg)
+![管理员-科室管理](https://www.codeshop.fun/Typora-Images/202208131952641.jpg)
 
-![管理员-医生管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131952593.jpg)
+![管理员-医生管理](https://www.codeshop.fun/Typora-Images/202208131952593.jpg)
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131952701.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202208131952701.jpg)
 
-![发病率统计](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131952013.jpg)
+![发病率统计](https://www.codeshop.fun/Typora-Images/202208131952013.jpg)
 
-![管理员-药品清单管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131952468.jpg)
+![管理员-药品清单管理](https://www.codeshop.fun/Typora-Images/202208131952468.jpg)
 
-![管理员-药品清单导入](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131952159.jpg)
+![管理员-药品清单导入](https://www.codeshop.fun/Typora-Images/202208131952159.jpg)
 
-![管理员-处方详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131952072.jpg)
+![管理员-处方详情](https://www.codeshop.fun/Typora-Images/202208131952072.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复关键词  ：**医院2** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**医院**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
